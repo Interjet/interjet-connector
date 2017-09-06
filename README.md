@@ -4,7 +4,7 @@
 Description: <br>
 Simple abstraction of the postMessage method. <br>
 This library allows to send / receive messages to / from any domain
-##### Basic usage
+#### Basic usage
 Include the library in your document: 
 ```html
 <script src="interjet.connector.js"></script>
@@ -30,7 +30,7 @@ connector.send({
     key: 'fE4Vg688c_76E78B5vo8u'
 });
 ```
-##### Tips and tricks
+#### Tips and tricks
 Send the message back to the source of the message:
 ```js
 var connector = new Interjet.Connector({
