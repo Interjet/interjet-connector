@@ -1,5 +1,5 @@
 # interjet-connector
-#### Simple Cross-Domain Messaging Library <br>
+### Simple Cross-Domain Messaging Library <br>
 
 Description: <br>
 Simple abstraction of the postMessage method. <br>
