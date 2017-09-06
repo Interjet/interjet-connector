@@ -1,7 +1,7 @@
 # interjet-connector
-### Simple Cross-Domain Messaging Library <br>
+### Simple Cross-Domain Messaging Library (~2kb) <br>
 
-Description: <br>
+#### Description
 Simple abstraction of the postMessage method. <br>
 This library allows to send / receive messages to / from any domain
 #### Basic usage

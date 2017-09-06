@@ -7,7 +7,7 @@ var Interjet = Interjet || {
 		this.queue = [];
 
 		this.options = {
-			provider: 'http://www.interjet.co.il/camp/test/israel/storage/',
+			provider: 'http://api.example.com/user/auth',
 			id: 'InterjetConnector',
 			origin: null,
 			autoLoad: true,
