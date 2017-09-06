@@ -2,7 +2,7 @@
 #### Simple Cross-Domain Messaging Library <br>
 
 Description: <br>
-Simple abstraction to the postMessage method. <br>
+Simple abstraction of the postMessage method. <br>
 This library allows to send / receive messages to / from any domain
 ##### Basic usage
 Include the library in your document: 
