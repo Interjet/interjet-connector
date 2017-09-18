@@ -3,6 +3,7 @@ var Interjet = Interjet || {};
 Interjet.Connector = function(options){
     var options = options || {};
 
+    this.version = '1.0.0';
     this.connector = false;
     this.connectorLoaded = false;
     this.queue = [];
